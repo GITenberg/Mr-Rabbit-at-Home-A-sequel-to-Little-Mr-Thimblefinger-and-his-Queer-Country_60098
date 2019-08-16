@@ -1,5 +1,5 @@
 _repo: Mr-Rabbit-at-Home-A-sequel-to-Little-Mr-Thimblefinger-and-his-Queer-Country_60098
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Herford, Oliver
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24852'
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+covers:
+- cover_type: archival
+  image_path: 60098-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Joel Chandler
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/868
     wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: 'Sequel to Little Mr. Thimblefinger and his Queer Country, #23869.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60098#Mr-Rabbit-at-Home-A-sequel-to-Little-Mr-Thimblefinger-and-his-Queer-Country
 gutenberg_issued: '2019-08-14'
 gutenberg_type: Text
 identifiers:
